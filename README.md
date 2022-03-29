@@ -1,4 +1,4 @@
-# Project: Digit Recognizer with modified LeNet-5
+# Project: Digit Recognition with modified LeNet-5
 Apply computer vision fundamentals with the famous MNIST data
 Competition website: https://www.kaggle.com/c/digit-recognizer
 
